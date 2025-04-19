@@ -1,0 +1,14 @@
+# ESG Analyzer
+
+Projeto Python para analisar indicadores ESG (Ambiental, Social e Governança) de empresas.
+
+## Funcionalidades
+- Cadastro de empresas com dados ESG
+- Cálculo de pontuação ESG
+- Ranking de empresas
+- Exportação de relatórios
+- Visualizações em gráfico
+
+## Execução
+```bash
+python main.py

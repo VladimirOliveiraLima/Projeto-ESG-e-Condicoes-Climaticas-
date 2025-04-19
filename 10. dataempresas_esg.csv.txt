@@ -1,0 +1,4 @@
+Empresa,E,S,G,Pontuação Total
+Empresa A,85,90,75,83.95
+Empresa B,70,60,90,73.6
+Empresa C,95,88,80,87.71

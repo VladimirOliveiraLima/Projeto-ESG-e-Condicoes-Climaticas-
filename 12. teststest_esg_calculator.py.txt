@@ -1,0 +1,8 @@
+from src.esg.empresa import Empresa
+from src.esg.esg_calculator import calcular_pontuacao_esg
+
+def test_calculo_esg():
+    emp = Empresa("Teste", 90, 80, 70)
+    score = calcular_pontuacao_esg(emp)
+    assert isinstance(score, float)
+    assert 0 <= score <= 100
